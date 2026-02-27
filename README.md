@@ -11,7 +11,11 @@ Ce dépôt contient les solutions de 10 exercices en langage **Java** réalisés
 Chaque fichier correspond à la solution d’un exercice spécifique.
 
 ---
-
+## Objectifs pédagogiques
+- Apprendre les bases de Java
+- Manipuler Scanner
+- Utiliser conditions et boucles
+- 
 ## 🧩 Liste des exercices
 
 | Fichier | Description |
